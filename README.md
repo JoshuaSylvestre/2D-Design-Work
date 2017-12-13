@@ -1,2 +1,16 @@
 My 2D Design work with the Adobe Projects that includes photo restoration, coloration, brand design, and etcetera.
-The Final producs are located in each directory under the abbreviation Sylvestre_Joshua_Assign_xx.jpg.
+
+Brand Design
+![Brand Design](/Final_Products/BrandDesign.jpg)
+
+
+Photo Restoration
+![Photo Restoration](/Final_Products/Restoration.jpg)
+
+
+Photo Destruction
+![Photo Destruction](/Final_Products/Destruction.jpg)
+
+
+Colorization
+![Colorization](/Final_Products/Colorization.jpg)
